@@ -5,6 +5,8 @@
 * CTO : 1 Star
 * DevOps : JJEDA(쟁)
 * Junior Dev : NNM(냠냠맨)
-* 문돌이 : DOU
+* 문송합니다 : 김뚝딱
 
-> An awesome project.
+!> 아프지말기, 싸우지 말기
+
+?> 행복하기, 건강하기
