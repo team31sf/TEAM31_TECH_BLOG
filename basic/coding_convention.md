@@ -1,10 +1,14 @@
-## 1. 변수와 함수명은 camelCase (단, 상수는 UPPER_CASE)
+## 1. 변수와 함수명은 camelCase (단, 상수는 UPPER_CASE, 클래스는 PascalCase)
 ```js
 // good
 let myName = 'itholic';
 
 function printMyName(name) {
     console.log(myName);
+
+class SsafySeoul1 extends object {
+    
+}
 };
 
 // bad
